@@ -79,7 +79,7 @@ oddEvenSort(arr2);           // => [5, 9, 13, 6, 8, 14, 22]
 
 ### `Valid Anagrams`
 
-Given two strings, s and t, write a function that determines it s and t are
+Given two strings, s and t, write a function that determines if s and t are
 anagrams.
 
 Example:
